@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyonishikawa
+- 👋 Hi, I’m 24111.
 - 👀 I’m interested in web app development!
 - 🌱 I’m currently learning javascript!
 - 💞️ I really like travelling and working out 💪
